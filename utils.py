@@ -1,5 +1,3 @@
-# copied from https://github.com/diegoalejogm/gans/blob/master/utils.py
-
 import os
 import numpy as np
 import errno
